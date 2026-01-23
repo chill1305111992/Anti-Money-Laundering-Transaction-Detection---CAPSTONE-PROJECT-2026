@@ -1,8 +1,8 @@
 import pandas as pd
 
 # File paths
-input_file = r"..\data\SAML-D.csv"
-output_file = r"..\data\SAML-D_reduced.csv"
+input_file = r"..\data\raw\SAML-D_reduced.csv"
+output_file = r"..\data\raw\SAML-D_reduced2.csv"
 
 # Read the CSV file
 print("Loading CSV file...")
@@ -12,7 +12,7 @@ print(f"Original dataset shape: {df.shape}")
 print(f"Original number of rows: {len(df)}")
 
 # Keep every 10th row (reduce by 10x)
-df_reduced = df.iloc[::10, :].reset_index(drop=True)
+df_reduced = df.iloc[::2, :].reset_index(drop=True)
 
 print(f"Reduced dataset shape: {df_reduced.shape}")
 print(f"Reduced number of rows: {len(df_reduced)}")
