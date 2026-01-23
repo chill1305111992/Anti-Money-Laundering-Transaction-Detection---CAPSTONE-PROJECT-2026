@@ -35,6 +35,10 @@ This project builds a data analytics with AI solution to detect high‑risk tran
 - **Dataset**: [https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
 - **GitHub Repository**: [https://github.com/AlonaDrok/Capstone_project](https://github.com/AlonaDrok/Capstone_project)
 
+
+- **The files that were added to github have been reduced in size due to github limitations. The original data and files that were used in the CAPSTONE project are located on disk at the link**: [https://drive.google.com/drive/folders/1W4orbVNHc33uYmOfyVbu2xNY-eN5XR26?usp=sharing](https://drive.google.com/drive/folders/1W4orbVNHc33uYmOfyVbu2xNY-eN5XR26?usp=sharing)
+
+
 ## Project Presentation
 
 For a comprehensive overview of the methodology, key findings, model performance, and business recommendations, see:
