@@ -2,7 +2,7 @@
 
 # Anti-Money Laundering Transaction Detection
 
-Author:   Alona Drok
+Author:     Sai Krishna
 
 ![project_title](assets/images/project_title.png)
 
@@ -33,7 +33,7 @@ This project builds a data analytics with AI solution to detect high‑risk tran
 ## Key Resources:
 
 - **Dataset**: [https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
-- **GitHub Repository**: [https://github.com/AlonaDrok/Capstone_project](https://github.com/AlonaDrok/Capstone_project)
+- **GitHub Repository**: [https://github.com/chill1305111992/Anti-Money-Laundering-Transaction-Detection---CAPSTONE-PROJECT-2026]
 
 
 - **The files that were added to github have been reduced in size due to github limitations. The original data and files that were used in the CAPSTONE project are located on disk at the link**: [https://drive.google.com/drive/folders/1W4orbVNHc33uYmOfyVbu2xNY-eN5XR26?usp=sharing](https://drive.google.com/drive/folders/1W4orbVNHc33uYmOfyVbu2xNY-eN5XR26?usp=sharing)
@@ -337,5 +337,7 @@ Link: https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitori
 - **Research Reference:** B. Oztas, D. Cetinkaya, F. Adedoyin, M. Budka, H. Dogan and G. Aksu, "Enhancing Anti-Money Laundering: Development of a Synthetic Transaction Monitoring Dataset," 2023 IEEE International Conference on e-Business Engineering (ICEBE), Sydney, Australia, 2023, pp. 47-54, doi: 10.1109/ICEBE59045.2023.00028.
 https://ieeexplore.ieee.org/document/10356193
 - **Learning Platform & Mentors:** course, mentors, and supporters.  
+
+Original project structure by AlonaDrok. Modified and extended by Sai Krishna
 
 ![logo_CI](assets/images/logo_CI.png)
